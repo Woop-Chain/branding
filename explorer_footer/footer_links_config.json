@@ -1,10 +1,11 @@
 [
   {
-    "text": "WikiWoop",
-    "url": "https://wikiwoop.com"
-  },
-  {
-    "text": "Docs",
-    "url": "https://docs.wikiwoop.com"
+    "title": "WikiWoop",
+    "links": [
+      {
+        "text": "Homepage",
+        "url": "https://wikiwoop.com"
+      }
+    ]
   }
 ]
