@@ -1,1 +1,10 @@
-[{'text':'WikiWoop','url':'https://wikiwoop.com'}]
+[
+  {
+    "text": "WikiWoop",
+    "url": "https://wikiwoop.com"
+  },
+  {
+    "text": "Docs",
+    "url": "https://docs.wikiwoop.com"
+  }
+]
